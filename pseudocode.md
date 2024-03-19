@@ -1,3 +1,4 @@
+```
 START
 
 INIT
@@ -49,3 +50,4 @@ Function mulligan
         move a card (hand[0]) from hand to deck
     ENDFOR
     randomize.deck
+```
