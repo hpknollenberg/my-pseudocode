@@ -5,7 +5,7 @@ INIT
     deck = [[Name, Type, ManaValue], [Name, Type, ManaValue], ...58]
     hand = []
 
-    goodHand = [3, 2, 2, 1]
+    goodHand = [3, 2, 2, 1] //[lands, creatures, mv<=lands, mv>lands]
     handCheck = []
     goodHandCheck = false
 
