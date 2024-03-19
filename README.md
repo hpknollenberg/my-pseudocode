@@ -3,7 +3,7 @@
 This pseudocode draws cards from a standard Magic the Gathering deck and
 analyzes those cards to see whether or not it is a worthwhile hand to keep.
 
-A worthwhile hand is determined as the following:
+A worthwhile hand is defined as the following:
 1. There must be between 3 and 4 lands.
 2. There must be at least 2 creatures.
 3. There must be at least 2 cards with mana values smaller or equal to the amount of lands.
